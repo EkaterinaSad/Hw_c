@@ -1,2 +1,2 @@
-# Hw_c
-Programming homework
+# Awsome homework
+Variant #1
